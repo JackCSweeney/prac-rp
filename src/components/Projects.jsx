@@ -22,6 +22,13 @@ const TheCrawFather = {
   githubLink: "https://github.com/JackCSweeney/the-crawfather"
 }
 
+const BeatWalk = {
+  title: "BeatWalk",
+  techStack: "Swift, SwiftUI",
+  description: "BeatWalk is an iOS application made to allow users to record any sounds they hear onto their phone, slice and alter those sounds, assign them to drum pads, and play/make beats. Much like a sampler, BeatWalk has options to change tempo, pitch, EQ, and compression of any sound before saving that altered sound. Those sounds are then able to be assigned to any of the 16 drumpads in the application, allowing users to create unique beats from any sound they can hear in the world.",
+  githubLink: "N/A"
+}
+
 const Projects = [
   TattDaddy,
   BrainFood,
