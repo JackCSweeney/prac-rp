@@ -5,7 +5,7 @@ const TattDaddy = {
   techStack: "Ruby on Rails, AWS S3, PostgreSQL, Heroku, Render",
   description: "TattDaddy is an app designed to connect users with tattoo artists in order to get pre-designed, flash tattoos in a quick and easy fashion. Users can scroll through different available designs that licensed tattoo artists will upload to the application, select tattoos they would like to get, and be connected with the artist to schedule an appointment, chat about small details of the work, and finalize payment. The goal is to allow tattoo collectors to easily add to their collection and provide artists an opportunity to fill more of their schedule with quick and efficient appointments.",
   githubLink: "https://github.com/JackCSweeney/tattdaddy-be",
-  imagePath: "src/assets/1.jpg"
+  imagePath: "src/assets/TattDaddyLogo.jpg"
 }
 
 const BrainFood = {
