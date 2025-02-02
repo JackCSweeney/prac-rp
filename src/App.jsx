@@ -7,12 +7,12 @@ import ProjectCard from './components/ProjectCard'
 
 function App() {
   const [isOpen, setIsOpen] = useState(false);
-  const titles = ['Software Engineer', 'Enthusiastic Communicator', 'Chef', 'Music Nerd']
+  const titles = ['SOFTWARE ENGINEER', 'ENTHUSIASTIC COMMUNICATOR', 'CHEF', 'MUSIC NERD']
   var projects = Projects
 
   return (
     <div>
-      <h1>Jack Sweeney</h1>
+      <h1>JACK SWEENEY</h1>
       <h1>
         <TextChanger texts={titles} interval={2000}/>
       </h1>
