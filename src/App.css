@@ -69,5 +69,7 @@
 }
 
 .header-image {
-  margin-top: -150px;
+  width: 400px;
+  height: 200px;
+  object-fit: cover;
 }
