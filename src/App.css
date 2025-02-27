@@ -55,6 +55,8 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
+  position: fixed;
+  inset: 0;
 }
 
 .darkBG {
@@ -72,4 +74,20 @@
   width: 400px;
   height: 200px;
   object-fit: cover;
+}
+
+#project-div {
+  height: 100%;
+  width: 100%;
+  overflow-y: hidden;
+}
+
+#project-description {
+  height: 100%;
+  width: 100%;
+  overflow-y: auto;
+}
+
+#project-description::-webkit-scrollbar {
+  display:none;
 }

@@ -32,7 +32,8 @@ const BeatWalk = {
 const Projects = [
   TattDaddy,
   BrainFood,
-  TheCrawFather
+  TheCrawFather,
+  BeatWalk
 ]
 
 export default Projects
